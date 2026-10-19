@@ -72,20 +72,6 @@ Moving from a terminal program to a web interface meant redesigning how users in
 
 ---
 
-## 📸 Screenshots
-
-<!-- Add screenshots here, for example:
-
-| Theatre Selection | Seat Map |
-|:---:|:---:|
-| ![Theatre](Screenshots/theatre-selection.png) | ![Seats](Screenshots/seat-map.png) |
-
-| Payment | Ticket Summary |
-|:---:|:---:|
-| ![Payment](Screenshots/payment.png) | ![Ticket](Screenshots/ticket-summary.png) |
--->
-
----
 
 ## 🚀 Installation and Setup
 
@@ -127,15 +113,6 @@ streamlit run app.py
 > 👉 **FILL: replace `app.py` with the name of your main file.**
 
 The app opens in your browser at **http://localhost:8501**.
-
----
-
-## ⚠️ Limitations
-
-- 👉 **FILL: state whether the payment step is simulated (no real money) or connected to a payment service.**
-- 👉 **FILL: state whether bookings are saved after the app closes, or reset each time.**
-
----
 
 ## 🔮 Future Improvements
 
