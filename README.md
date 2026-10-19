@@ -114,18 +114,6 @@ streamlit run app.py
 
 The app opens in your browser at **http://localhost:8501**.
 
-## 🔮 Future Improvements
-
-These are ideas I would add next:
-
-- [ ] Save bookings to a database or file so they persist
-- [ ] Prevent double-booking of the same seat across sessions
-- [ ] Add user login and booking history
-- [ ] Add automated tests for pricing and seat selection
-- [ ] Deploy the app online for a live demo
-
----
-
 ## 💡 What I Learned
 
 Rebuilding this project from a terminal program into a web app taught me how to design a **multi-step user flow**, manage state between steps, and present information visually instead of through text prompts.
